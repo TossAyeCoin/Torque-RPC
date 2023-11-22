@@ -11,6 +11,8 @@ To run this. Make sure you have Python +3.9 installed, web3 +6.0.0
   python .\main.py
 ```
 
+In API.py - Change the latency filter to whatever time you want and update the RPC list to match your RPCs. This should work with any RPC list.
+
 ## API Reference
 
 #### Get chain tip rpc block
