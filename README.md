@@ -1,4 +1,4 @@
-# ChainTip RPC API
+# Torque RPC API
 
 This is an API which queries a list of RPCs for top of block and low latency.
 
